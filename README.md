@@ -42,12 +42,12 @@ A modern, responsive e-commerce website for Alcami Elements, featuring a beautif
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CubeHq_Alcami.git
+git clone https://github.com/Shrinivas5/cube_assignment.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd CubeHq_Alcami
+cd Assignment cube
 ```
 
 3. Open `index.html` in your web browser or use a local server.
@@ -110,8 +110,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Font Awesome for icons
 - Swiper.js for the slider functionality
 
-## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/CubeHq_Alcami](https://github.com/yourusername/CubeHq_Alcami) 
